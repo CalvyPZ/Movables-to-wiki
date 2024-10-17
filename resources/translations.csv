@@ -1,39 +1,39 @@
-key_path,en,es
-intro,'''{item_name}''' is a tile in [[Project Zomboid]].,'''{item_name}''' es un azulejo en [[Project Zomboid]].
-tag,tag,tag
-usage.stove,This tile can be used as a [[heat source]] to cook [[food]]. It requires [[electricity|power]] to operate. It has a capacity of {capacity}.,Este azulejo puede usarse como una [[fuente de calor]] para cocinar [[comida]]. Requiere [[electricidad|energía]] para funcionar. Tiene una capacidad de {capacity}.
-usage.woodstove,This tile can be used as a [[heat source]] to cook [[food]]. It requires [[fuel]] to work. It has a capacity of {capacity}.,Este azulejo puede usarse como una [[fuente de calor]] para cocinar [[comida]]. Requiere [[combustible]] para funcionar. Tiene una capacidad de {capacity}.
-usage.clothingwasher,This tile can be used to wash [[clothing]]. It has a capacity of {capacity}.,Este azulejo puede usarse para lavar [[ropa]]. Tiene una capacidad de {capacity}.
-usage.clothingdryerbasic,This tile can be used to dry wet [[clothing]]. It has a capacity of {capacity}.,Este azulejo puede usarse para secar [[ropa]] mojada. Tiene una capacidad de {capacity}.
-usage.container_storage,This tile can be used to store [[item]]s. It has a capacity of {capacity}.,Este azulejo puede usarse para almacenar [[objetos]]. Tiene una capacidad de {capacity}.
-usage.fridge,This fridge can slow down the process of [[food]] rotting. It has a fridge capacity of {fridge_capacity} and a freezer capacity of {freezer_capacity}.,Este frigorífico puede ralentizar el proceso de descomposición de la [[comida]]. Tiene una capacidad de refrigerador de {fridge_capacity} y una capacidad de congelador de {freezer_capacity}.
-usage.bed,This tile can be used as a bed to [[sleep]] on. It has a quality of {bed_quality}.,Este azulejo puede usarse como una cama para [[dormir]]. Tiene una calidad de {bed_quality}.
-usage.custom_item,This tile uses the custom item {custom_item} when picked up.,Este azulejo usa el objeto personalizado {custom_item} cuando se recoge.
-usage.generic_item,This tile uses the generic movable item when picked up.,Este azulejo usa el objeto movible genérico cuando se recoge.
-directions.S,South,Sur
-directions.W,West,Oeste
-directions.N,North,Norte
-directions.E,East,Este
-bed_types.goodBed,Good,Buena
-bed_types.averageBed,Average,Media
-bed_types.badBed,Bad,Mala
-sprite,sprite,sprite
-true,True,Verdadero
-headers.Usage,Usage,Uso
-headers.crafting,Crafting,Fabricación
-headers.Code,Code,Código
-headers.see_also,See also,Ver también
-headers.sprites,Sprites,Sprites
-crafting_strings.on_failed_dismantle,On failed dismantle,En desmontaje fallido
-crafting_strings.disassembly_materials,Disassembly materials,Materiales de desmantelamiento
-crafting_strings.material,Material,Material
-crafting_strings.amount_of_tries,Amount of tries,Cantidad de intentos
-crafting_strings.base_chance,Base chance,Probabilidad base
-crafting_strings.base_chance_note,Base chance is not a percentage, but can provide a basic idea of rarity.,La probabilidad base no es un porcentaje, pero puede dar una idea básica de la rareza.
-crafting_strings.maximum_amount,Maximum amount,Cantidad máxima
-crafting_strings.disassembly_intro,The following table contains the materials that can drop when disassembling this tile.,La siguiente tabla contiene los materiales que pueden caer al desmantelar este azulejo.
-crafting_strings.breakage_intro,Breakage occurs when the {{ll|player}} fails at picking up an item.,La ruptura ocurre cuando el {{ll|jugador}} falla al recoger un objeto.
-crafting_strings.breakage_materials,Breakage materials,Materiales de ruptura
-crafting_strings.item_dropped,Item dropped,Objeto caído
-crafting_strings.max_amount_dropped,Max amount dropped,Cantidad máxima caída
-crafting_strings.chance_per_roll,Chance per roll,Probabilidad por tirada
+key_path,en,es,,
+intro,'''{item_name}''' is a tile in [[Project Zomboid]].,'''{item_name}''' es un azulejo en [[Project Zomboid]].,,
+tag,tag,tag,,
+usage.stove,This tile can be used as a [[heat source]] to cook [[food]]. It requires [[electricity|power]] to operate. It has a capacity of {capacity}.,Este azulejo puede usarse como una [[fuente de calor]] para cocinar [[comida]]. Requiere [[electricidad|energía]] para funcionar. Tiene una capacidad de {capacity}.,,
+usage.woodstove,This tile can be used as a [[heat source]] to cook [[food]]. It requires [[fuel]] to work. It has a capacity of {capacity}.,Este azulejo puede usarse como una [[fuente de calor]] para cocinar [[comida]]. Requiere [[combustible]] para funcionar. Tiene una capacidad de {capacity}.,,
+usage.clothingwasher,This tile can be used to wash [[clothing]]. It has a capacity of {capacity}.,Este azulejo puede usarse para lavar [[ropa]]. Tiene una capacidad de {capacity}.,,
+usage.clothingdryerbasic,This tile can be used to dry wet [[clothing]]. It has a capacity of {capacity}.,Este azulejo puede usarse para secar [[ropa]] mojada. Tiene una capacidad de {capacity}.,,
+usage.container_storage,This tile can be used to store [[item]]s. It has a capacity of {capacity}.,Este azulejo puede usarse para almacenar [[objetos]]. Tiene una capacidad de {capacity}.,,
+usage.fridge,This fridge can slow down the process of [[food]] rotting. It has a fridge capacity of {fridge_capacity} and a freezer capacity of {freezer_capacity}.,Este frigorífico puede ralentizar el proceso de descomposición de la [[comida]]. Tiene una capacidad de refrigerador de {fridge_capacity} y una capacidad de congelador de {freezer_capacity}.,,
+usage.bed,This tile can be used as a bed to [[sleep]] on. It has a quality of {bed_quality}.,Este azulejo puede usarse como una cama para [[dormir]]. Tiene una calidad de {bed_quality}.,,
+usage.custom_item,This tile uses the custom item {custom_item} when picked up.,Este azulejo usa el objeto personalizado {custom_item} cuando se recoge.,,
+usage.generic_item,This tile uses the generic movable item when picked up.,Este azulejo usa el objeto movible genérico cuando se recoge.,,
+directions.S,South,Sur,,
+directions.W,West,Oeste,,
+directions.N,North,Norte,,
+directions.E,East,Este,,
+bed_types.goodBed,Good,Buena,,
+bed_types.averageBed,Average,Media,,
+bed_types.badBed,Bad,Mala,,
+sprite,sprite,sprite,,
+TRUE,TRUE,Verdadero,,
+headers.Usage,Usage,Uso,,
+headers.crafting,Crafting,Creación,,
+headers.Code,Code,Código,,
+headers.see_also,See also,Ver también,,
+headers.sprites,Sprites,Sprites,,
+crafting_strings.on_failed_dismantle,On failed dismantle,En desmontaje fallido,,
+crafting_strings.disassembly_materials,Disassembly materials,Materiales de desmantelamiento,,
+crafting_strings.material,Material,Material,,
+crafting_strings.amount_of_tries,Amount of tries,Cantidad de intentos,,
+crafting_strings.base_chance,Base chance,Probabilidad base,,
+crafting_strings.base_chance_note,"Base chance is not a percentage,  but can provide a basic idea of rarity.","La probabilidad base no es un porcentaje, pero puede dar una idea b sica de la rareza",La probabilidad base no es un porcentaje, pero puede dar una idea básica de la rareza.
+crafting_strings.maximum_amount,Maximum amount,Cantidad máxima,,
+crafting_strings.disassembly_intro,The following table contains the materials that can drop when disassembling this tile.,La siguiente tabla contiene los materiales que pueden caer al desmantelar este azulejo.,,
+crafting_strings.breakage_intro,Breakage occurs when the {{ll|player}} fails at picking up an item.,La ruptura ocurre cuando el {{ll|jugador}} falla al recoger un objeto.,,
+crafting_strings.breakage_materials,Breakage materials,Materiales de ruptura,,
+crafting_strings.item_dropped,Item dropped,Objeto caído,,
+crafting_strings.max_amount_dropped,Max amount dropped,Cantidad m xima soltada,,
+crafting_strings.chance_per_roll,Chance per roll,Probabilidad por tirada,,
