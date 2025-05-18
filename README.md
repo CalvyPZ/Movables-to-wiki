@@ -1,5 +1,7 @@
 # Movables-to-wiki
 
+THIS PROJECT IS DEPRECATED. ALL FUNCTIONALITY HAS BEEN IMPLEMENTED IN [PZ-wiki_parser](https://github.com/Vaileasys/pz-wiki_parser).
+
 This is a project designed to parse `.tiles` files into usable articles and infoboxes for use on PZwiki.
 
 ## Requirements
